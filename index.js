@@ -89,6 +89,9 @@ user2.deleteLastPost();
 user2.displayPosts();
 
 
+
+// This should display if code runs correctly.
+
 // Post "First Blog Post" created by Andrea Hennig.
 // Post "Second Blog Post" created by Andrea Hennig.
 
